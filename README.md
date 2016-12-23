@@ -6,7 +6,7 @@ Install:
 $ npm install stylus-base
 ```
 
-Include:
+Import:
 ```css
 @import "./path/to/node_modules/stylus-base/src"
 ```

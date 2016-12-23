@@ -1,0 +1,19 @@
+{
+  "name": "stylus-base",
+  "version": "1.0.0",
+  "description": "A simple stylus base for any stylus projects.",
+  "main": "src/index.styl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike96Angelo/stylus-base.git"
+  },
+  "author": "Michaelangelo Jong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mike96Angelo/stylus-base/issues"
+  },
+  "homepage": "https://github.com/Mike96Angelo/stylus-base#readme"
+}

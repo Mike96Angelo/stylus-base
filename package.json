@@ -1,6 +1,6 @@
 {
   "name": "stylus-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple stylus base for any stylus projects.",
   "main": "src/index.styl",
   "scripts": {
